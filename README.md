@@ -1,5 +1,6 @@
 <div id="header" align="center">
     <h1>Hi, I'm Canuto</h1>
+    <h2>Hola</h2>
 </div>
 
 
