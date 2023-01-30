@@ -5,6 +5,9 @@
         <a href="https://twitter.com/J_u_a_n_c_k" target="_blank">
             <img src="https://img.shields.io/twitter/url?label=%40J_u_a_n_c_k&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FJ_u_a_n_c_k" alt="Twitter Badge"/>
         </a>
+        <a href="https://www.linkedin.com/in/juan-moya-vg/" target="_blank">
+            <img src="https://img.shields.io/twitter/url?label=Juan%20Moya&logo=Linkedin&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuan-moya-vg%2F" alt="LinkedIn Badge"/>
+        </a>
     </div>
 </div>
 
