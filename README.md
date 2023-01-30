@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi, I'm Canuto</h1>
-    <h2>Hola</h2>
+    <h2>System engineer apassionate for videogame develop. I like to think and build videogames from scratch taking games from the industry as inspiration.</h2>
 </div>
 
 
