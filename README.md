@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hi, I'm Canuto</h1>
+    <h1>Hi<br>I'm Canuto</h1>
     <h2>System engineer apassionate for videogame develop. I like to think and build videogames from scratch taking games from the industry as inspiration.</h2>
     <div id="badges">
         <a href="https://twitter.com/J_u_a_n_c_k" target="_blank">
@@ -16,7 +16,7 @@
 <div id="about-me">
     <h3>👨‍💻About Me:</h3>
     <ul>
-        <li>✉ You can contact me at jcmt.personal.vg@gmail.com</li>
+        <li>✉ You can contact me at <span type="email">jcmt.personal.vg@gmail.com</span></li>
         <li>📕 I'm currently learning Unity, C#, Pl/Sql, Spring and Networking</li>
         <li>
             🔨 Languages and Tools<br>
@@ -38,6 +38,8 @@
 ### 📊 My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Canuto31&theme=gotham)](https://git.io/streak-stats)
+![Canuto GitHub stats](https://github-readme-stats.vercel.app/api?username=Canuto31&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Canuto31&layout=compact)](https://github.com/Canuto31/github-readme-stats)
 
 
 
