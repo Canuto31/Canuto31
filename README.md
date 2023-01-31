@@ -12,7 +12,28 @@
 </div>
 
 <div id="body">
-
+    <div id="about-me">
+        <ul>
+            <li>✉ You can contact me at jcmt.personal.vg@gmail.com</li>
+            <li>📕 I'm currently learning Unity, C#, Pl/Sql, Spring and Networking</li>
+            <li>
+                🔨 Languages and Tools<br>
+                <i class="devicon-unity-original"></i>
+                <i class="devicon-csharp-plain"></i>
+                <i class="devicon-java-plain"></i>
+                <i class="devicon-angularjs-plain"></i>
+                <i class="devicon-firebase-plain"></i>
+                <i class="devicon-git-plain"></i>
+                <i class="devicon-html5-plain"></i>
+                <i class="devicon-mysql-plain"></i>
+                <i class="devicon-postgresql-plain"></i>
+                <i class="devicon-spring-plain"></i>
+                <i class="devicon-unrealengine-original"></i>
+                <i class="devicon-blender-original"></i>
+            </li>
+        </ul>
+    </div>
+    <div id="My-stats"></div>
 </div>
 
 
