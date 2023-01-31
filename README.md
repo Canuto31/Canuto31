@@ -39,9 +39,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Canuto31&theme=gotham)](https://git.io/streak-stats)
 <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Canuto31&theme=gotham">
     <img src="https://github-readme-stats.vercel.app/api?username=Canuto31&show_icons=true&theme=gotham"/>
 </p>
-<center><img src="https://github-readme-stats.vercel.app/api?username=Canuto31&show_icons=true&theme=gotham"/></center>
 ![Canuto GitHub stats](https://github-readme-stats.vercel.app/api?username=Canuto31&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Canuto31&layout=compact&theme=gotham)](https://github.com/Canuto31/github-readme-stats)
 
