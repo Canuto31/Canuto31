@@ -18,18 +18,15 @@
             <li>📕 I'm currently learning Unity, C#, Pl/Sql, Spring and Networking</li>
             <li>
                 🔨 Languages and Tools<br>
-                <i class="devicon-unity-original"></i>
-                <i class="devicon-csharp-plain"></i>
-                <i class="devicon-java-plain"></i>
-                <i class="devicon-angularjs-plain"></i>
-                <i class="devicon-firebase-plain"></i>
-                <i class="devicon-git-plain"></i>
-                <i class="devicon-html5-plain"></i>
-                <i class="devicon-mysql-plain"></i>
-                <i class="devicon-postgresql-plain"></i>
-                <i class="devicon-spring-plain"></i>
-                <i class="devicon-unrealengine-original"></i>
-                <i class="devicon-blender-original"></i>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
             </li>
         </ul>
     </div>
