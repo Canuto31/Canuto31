@@ -39,6 +39,11 @@
 
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Canuto31&theme=gotham">
+    
+</p>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Canuto31&show_icons=true&theme=gotham"/>
+</p>
+<p align="center">
     <a href="https://github.com/Canuto31/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canuto31&layout=compact&theme=gotham">
 </p>
