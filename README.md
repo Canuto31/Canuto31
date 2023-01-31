@@ -13,32 +13,32 @@
 
 ---
 
-<div id="body">
-    <div id="about-me">
-        <h3>👨‍💻About Me:</h3>
-        <ul>
-            <li>✉ You can contact me at jcmt.personal.vg@gmail.com</li>
-            <li>📕 I'm currently learning Unity, C#, Pl/Sql, Spring and Networking</li>
-            <li>
-                🔨 Languages and Tools<br>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" title="unreal Engine" alt="Unreal Engine" width="40" height="40"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="Html" alt="Html" width="40" height="40"/>
-            </li>
-        </ul>
-    </div>
-    ---
-    <div id="My-stats">
-        <h3>📊My Stats:</h3>
-        [![GitHub Streak](https://streak-stats.demolab.com?user=Canuto31&theme=gotham)](https://git.io/streak-stats)
-    </div>
+<div id="about-me">
+    <h3>👨‍💻About Me:</h3>
+    <ul>
+        <li>✉ You can contact me at jcmt.personal.vg@gmail.com</li>
+        <li>📕 I'm currently learning Unity, C#, Pl/Sql, Spring and Networking</li>
+        <li>
+            🔨 Languages and Tools<br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" title="unreal Engine" alt="Unreal Engine" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="Html" alt="Html" width="40" height="40"/>
+        </li>
+    </ul>
 </div>
+
+---
+
+### 📊 My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Canuto31&theme=gotham)](https://git.io/streak-stats)
+
 
 
 ### Hi there 👋
