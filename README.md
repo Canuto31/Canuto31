@@ -15,6 +15,7 @@
 
 <div id="body">
     <div id="about-me">
+        <h3>👨‍💻About Me:</h3>
         <ul>
             <li>✉ You can contact me at jcmt.personal.vg@gmail.com</li>
             <li>📕 I'm currently learning Unity, C#, Pl/Sql, Spring and Networking</li>
@@ -32,7 +33,11 @@
             </li>
         </ul>
     </div>
-    <div id="My-stats"></div>
+    ---
+    <div id="My-stats">
+        <h3>📊My Stats:</h3>
+        [![GitHub Streak](https://streak-stats.demolab.com?user=Canuto31&theme=gotham)](https://git.io/streak-stats)
+    </div>
 </div>
 
 
