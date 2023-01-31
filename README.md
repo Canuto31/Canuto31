@@ -36,11 +36,11 @@
 ---
 
 ### 📊 My Stats :
-\begin{center}
-[![GitHub Streak](https://streak-stats.demolab.com?user=Canuto31&theme=gotham)](https://git.io/streak-stats)
-![Canuto GitHub stats](https://github-readme-stats.vercel.app/api?username=Canuto31&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Canuto31&layout=compact&theme=gotham)](https://github.com/Canuto31/github-readme-stats)
-\end{center}
+
+        [![GitHub Streak](https://streak-stats.demolab.com?user=Canuto31&theme=gotham)](https://git.io/streak-stats)
+        ![Canuto GitHub stats](https://github-readme-stats.vercel.app/api?username=Canuto31&show_icons=true&theme=gotham)
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Canuto31&layout=compact&theme=gotham)](https://github.com/Canuto31/github-readme-stats)
+
 
 
 ### Hi there 👋
